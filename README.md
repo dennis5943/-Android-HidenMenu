@@ -1,4 +1,0 @@
--Android--HidenMenu
-===================
-
-[Android]HidenMenu
